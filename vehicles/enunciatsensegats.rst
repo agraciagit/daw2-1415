@@ -33,3 +33,4 @@ Oferirem els següents mètodes:
 
 * cada subclasse de Vehicle redefineix toString() mostrant tota la
   informació
+hola
