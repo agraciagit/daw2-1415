@@ -21,7 +21,7 @@ public class UsaVehicles {
 
     public void llistaVehicles() {
         for(Vehicle vehicle: vehicles) {
-            System.out.println(vehicle);
+            System.out.println(vehicle.getMatricula());
         }
     }
 
